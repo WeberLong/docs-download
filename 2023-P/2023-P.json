@@ -832,7 +832,7 @@
         "id": "2023-P-64",
         "type": "数量关系",
         "question": "一个三角形公园ABC内的道路如下图中实线所示。已知AE=EF=FB，AD=DC，且黑色部分为人工湖。问公园总面积是人工湖面积的多少倍？",
-        "image": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image64.png",
+        "image": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image64.png",
         "options": [
             "9",
             "12",
@@ -989,7 +989,7 @@
         "id": "2023-P-76",
         "type": "判断推理",
         "question": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：（题干为字母G及选项图形）",
-        "image": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image76.png",
+        "image": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image76.png",
         "options": [
             "选项A",
             "选项B",
@@ -1003,7 +1003,7 @@
         "id": "2023-P-77",
         "type": "判断推理",
         "question": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：（题干为一组图形，问号处选填）",
-        "image": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image77.png",
+        "image": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image77.png",
         "options": [
             "选项A",
             "选项B",
@@ -1017,7 +1017,7 @@
         "id": "2023-P-78",
         "type": "判断推理",
         "question": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：（题干为一组图形，问号处选填）",
-        "image": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image78.png",
+        "image": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image78.png",
         "options": [
             "选项A",
             "选项B",
@@ -1031,7 +1031,7 @@
         "id": "2023-P-79",
         "type": "判断推理",
         "question": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：（题干为数字8及选项图形）",
-        "image": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image79.png",
+        "image": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image79.png",
         "options": [
             "选项A",
             "选项B",
@@ -1045,7 +1045,7 @@
         "id": "2023-P-80",
         "type": "判断推理",
         "question": "下图是给定的立体图形（大圆柱内的虚线部分为挖空部分），将其从任一面剖开，下面哪一项不可能是该立体图形的截面？",
-        "image": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image80.png",
+        "image": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image80.png",
         "options": [
             "选项A",
             "选项B",
@@ -1059,7 +1059,7 @@
         "id": "2023-P-81",
         "type": "判断推理",
         "question": "左边给定的是正方体的外表面展开图，下面哪一项能由它折叠而成？",
-        "image": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image81.png",
+        "image": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image81.png",
         "options": [
             "选项A",
             "选项B",
@@ -1073,7 +1073,7 @@
         "id": "2023-P-82",
         "type": "判断推理",
         "question": "左图为等大的3个灰色正方体和15个白色正方体所组成的多面体，其可以切割为①、②和③三个小多面体，则③代表的多面体可能是：",
-        "image": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image82.png",
+        "image": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image82.png",
         "options": [
             "选项A",
             "选项B",
@@ -1087,7 +1087,7 @@
         "id": "2023-P-83",
         "type": "判断推理",
         "question": "把下面的六个图形分为两类，使每一类图形都有各自的共同特征或规律，分类正确的一项是：",
-        "image": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image83.png",
+        "image": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image83.png",
         "options": [
             "①③⑥，②④⑤",
             "①③⑤，②④⑥",
@@ -1101,7 +1101,7 @@
         "id": "2023-P-84",
         "type": "判断推理",
         "question": "把下面的六个图形分为两类，使每一类图形都有各自的共同特征或规律，分类正确的一项是：",
-        "image": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image84.png",
+        "image": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image84.png",
         "options": [
             "①⑤⑥，②③④",
             "①④⑥，②③⑤",
@@ -1115,7 +1115,7 @@
         "id": "2023-P-85",
         "type": "判断推理",
         "question": "把下面的六个图形分为两类，使每一类图形都有各自的共同特征或规律，分类正确的一项是：",
-        "image": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image85.png",
+        "image": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image85.png",
         "options": [
             "①③⑥，②④⑤",
             "①④⑤，②③⑥",
@@ -1207,7 +1207,7 @@
         "id": "2023-P-92",
         "type": "判断推理",
         "question": "小中取大法是指在决策时，首先计算各方案在不同自然状态下的收益，并找出各方案在最差自然状态下的收益，然后进行比较，选择在最差自然状态下收益最大或损失最小的方案作为最终方案的一种决策方法。大中取大法是指在决策时，首先计算各方案在不同自然状态下的收益，并找出各方案在最好自然状态下的收益，然后进行比较，选择在最好自然状态下收益最大的方案作为最终方案的一种决策方法。根据以下收益表（单位：万元），分别使用小中取大法和大中取大法对上述方案进行决策，所选择的方案依次是：",
-        "image": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image92.png",
+        "image": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image92.png",
         "options": [
             "方案二和方案二",
             "方案二和方案一",
@@ -1234,7 +1234,7 @@
         "id": "2023-P-94",
         "type": "判断推理",
         "question": "分布区是指某生物的活动、生存范围。如下图所示，用黑色方块表示该生物已知、推断或预计出现的位点。分布区的划定是环绕所有已知、推断或预计出现的位点的最短连续边界所包含的面积，经常用最小凸边形来表示。该最小凸边形的每个内角不能超过180度，并要包含所有出现的位点。根据上述定义，对于上述位点所划定的分布区正确的是：",
-        "image": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image94.png",
+        "image": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image94.png",
         "options": [
             "选项A",
             "选项B",
@@ -1521,7 +1521,7 @@
         "id": "2023-P-116",
         "type": "资料分析",
         "material": "截至2021年底，我国固定互联网宽带接入用户数比上年底净增5224万户。其中，100Mbps及以上接入速率的用户比上年底净增6385万户。按接入方式划分，固定互联网宽带接入用户可分为xDSL用户、光纤用户和其他用户；按接入速率划分，固定互联网宽带接入用户可分为100Mbps速率以上用户和其他用户。",
-        "materialImage": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image116.png",
+        "materialImage": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image116.png",
         "question": "2021年1-2月，我国固定互联网宽带接入用户数月均约增加多少万户？",
         "options": [
             "867",
@@ -1536,7 +1536,7 @@
         "id": "2023-P-117",
         "type": "资料分析",
         "material": "截至2021年底，我国固定互联网宽带接入用户数比上年底净增5224万户。其中，100Mbps及以上接入速率的用户比上年底净增6385万户。按接入方式划分，固定互联网宽带接入用户可分为xDSL用户、光纤用户和其他用户；按接入速率划分，固定互联网宽带接入用户可分为100Mbps速率以上用户和其他用户。",
-        "materialImage": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image116.png",
+        "materialImage": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image116.png",
         "question": "2021年下半年，我国固定互联网宽带接入用户中，光纤用户数增量超过500万户的月份有几个？",
         "options": [
             "2",
@@ -1551,7 +1551,7 @@
         "id": "2023-P-118",
         "type": "资料分析",
         "material": "截至2021年底，我国固定互联网宽带接入用户数比上年底净增5224万户。其中，100Mbps及以上接入速率的用户比上年底净增6385万户。按接入方式划分，固定互联网宽带接入用户可分为xDSL用户、光纤用户和其他用户；按接入速率划分，固定互联网宽带接入用户可分为100Mbps速率以上用户和其他用户。",
-        "materialImage": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image116.png",
+        "materialImage": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image116.png",
         "question": "2021年年末，我国固定互联网宽带接入用户中，100Mbps速率以上用户占比比上年末：",
         "options": [
             "上升了不到1个百分点",
@@ -1566,7 +1566,7 @@
         "id": "2023-P-119",
         "type": "资料分析",
         "material": "截至2021年底，我国固定互联网宽带接入用户数比上年底净增5224万户。其中，100Mbps及以上接入速率的用户比上年底净增6385万户。按接入方式划分，固定互联网宽带接入用户可分为xDSL用户、光纤用户和其他用户；按接入速率划分，固定互联网宽带接入用户可分为100Mbps速率以上用户和其他用户。",
-        "materialImage": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image116.png",
+        "materialImage": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image116.png",
         "question": "2021年末，我国固定互联网宽带接入用户中，使用xDSL和光纤以外接入方式的用户数量比上半年末：",
         "options": [
             "增加了不到200万户",
@@ -1581,9 +1581,9 @@
         "id": "2023-P-120",
         "type": "资料分析",
         "material": "截至2021年底，我国固定互联网宽带接入用户数比上年底净增5224万户。其中，100Mbps及以上接入速率的用户比上年底净增6385万户。按接入方式划分，固定互联网宽带接入用户可分为xDSL用户、光纤用户和其他用户；按接入速率划分，固定互联网宽带接入用户可分为100Mbps速率以上用户和其他用户。",
-        "materialImage": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image116.png",
+        "materialImage": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image116.png",
         "question": "以下折线图反映了2021年哪一时间段内，我国固定互联网宽带100Mbps速率以上用户数环比增量的变化趋势？",
-        "image": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image120.png",
+        "image": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image120.png",
         "options": [
             "3~6月",
             "5~8月",
@@ -1596,7 +1596,7 @@
     {
         "id": "2023-P-121",
         "type": "资料分析",
-        "materialImage": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image121.png",
+        "materialImage": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image121.png",
         "question": "2021年，表中所列省市集成电路产量约占全国总产量的：",
         "options": [
             "80%",
@@ -1610,7 +1610,7 @@
     {
         "id": "2023-P-122",
         "type": "资料分析",
-        "materialImage": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image121.png",
+        "materialImage": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image121.png",
         "question": "2017~2021年间，全国集成电路产量同比增速超过20%的年份有几个？",
         "options": [
             "1",
@@ -1624,7 +1624,7 @@
     {
         "id": "2023-P-123",
         "type": "资料分析",
-        "materialImage": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image121.png",
+        "materialImage": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image121.png",
         "question": "表中所列7个省市中，2019年集成电路产量同比增速超过2%的省市比上年：",
         "options": [
             "少1个",
@@ -1638,7 +1638,7 @@
     {
         "id": "2023-P-124",
         "type": "资料分析",
-        "materialImage": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image121.png",
+        "materialImage": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image121.png",
         "question": "将①甘肃、②广东、③上海和④浙江按2016~2021年集成电路产量年均增速（以2016年为基期计算）从高到低排列，以下正确的是：",
         "options": [
             "④①③②",
@@ -1652,9 +1652,9 @@
     {
         "id": "2023-P-125",
         "type": "资料分析",
-        "materialImage": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image121.png",
+        "materialImage": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image121.png",
         "question": "以下折线图中，最能准确反应2017~2021年间北京市集成电路产量同比增量变化趋势的是：",
-        "image": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image125.png",
+        "image": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image125.png",
         "options": [
             "选项A",
             "选项B",
@@ -1667,7 +1667,7 @@
     {
         "id": "2023-P-126",
         "type": "资料分析",
-        "materialImage": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image126.png",
+        "materialImage": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image126.png",
         "question": "2020-2021年，中国超算服务市场累计规模约为多少亿元？",
         "options": [
             "354",
@@ -1681,7 +1681,7 @@
     {
         "id": "2023-P-127",
         "type": "资料分析",
-        "materialImage": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image126.png",
+        "materialImage": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image126.png",
         "question": "2018年，中国超算服务4类细分市场中，同比增速最快和最慢的市场当年市场规模同比增速相差约多少个百分点？",
         "options": [
             "41",
@@ -1695,7 +1695,7 @@
     {
         "id": "2023-P-128",
         "type": "资料分析",
-        "materialImage": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image126.png",
+        "materialImage": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image126.png",
         "question": "2019年，中国第三方超算服务市场规模约占同年超算服务总体市场规模的：",
         "options": [
             "15%",
@@ -1709,7 +1709,7 @@
     {
         "id": "2023-P-129",
         "type": "资料分析",
-        "materialImage": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image126.png",
+        "materialImage": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image126.png",
         "question": "如保持2021年同比增量不变，则到哪一年第三方互联网超算服务商提供的服务市场规模将第一次超过第三方独立超算服务商？",
         "options": [
             "2025年",
@@ -1723,7 +1723,7 @@
     {
         "id": "2023-P-130",
         "type": "资料分析",
-        "materialImage": "https://gitee.com/longweihua/exam-img/raw/master/2023-P/img/image126.png",
+        "materialImage": "https://cdn.jsdelivr.net/gh/WeberLong/docs-download@main/2023-P/img/image126.png",
         "question": "能够从上述资料中推出的是：",
         "options": [
             "2017-2020年，第三方互联网超算服务市场规模同比增速逐年递减",
